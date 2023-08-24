@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"7UH5O":[function(require,module,exports) {
+})({"7lARG":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -845,6 +845,6 @@ $RefreshReg$(_c, "DisplayCart");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","../utils/UseCartSlice":"jqgWJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["7UH5O","1xC6H"], null, "parcelRequire5457")
+},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","../utils/UseCartSlice":"jqgWJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["7lARG","1xC6H"], null, "parcelRequire5457")
 
 //# sourceMappingURL=Mybag.ad36b668.js.map
