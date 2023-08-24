@@ -36312,7 +36312,7 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _reactRedux = require("react-redux");
-var _useCartSlice = require("../utils/useCartSlice");
+var _useCartSlice = require("../utils/UseCartSlice");
 var _constant = require("./constant");
 var _s = $RefreshSig$();
 const ItemList = ({ dataInfo })=>{
@@ -36402,11 +36402,11 @@ $RefreshReg$(_c, "ItemList");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","../utils/useCartSlice":"2vYEN","./constant":"ie4gv","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"2vYEN":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$eb7c = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
+},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","./constant":"ie4gv","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../utils/UseCartSlice":"jqgWJ"}],"jqgWJ":[function(require,module,exports) {
+var $parcel$ReactRefreshHelpers$e6be = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$eb7c.prelude(module);
+$parcel$ReactRefreshHelpers$e6be.prelude(module);
 
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
@@ -36473,7 +36473,7 @@ const CartSlice = (0, _toolkit.createSlice)({
 const { addItem, removeItem, clearItem, increment, allPrice } = CartSlice.actions;
 exports.default = CartSlice.reducer;
 
-  $parcel$ReactRefreshHelpers$eb7c.postlude(module);
+  $parcel$ReactRefreshHelpers$e6be.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
@@ -40356,7 +40356,7 @@ exports.default = thunk;
 //default import
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
-var _useCartSlice = require("./useCartSlice");
+var _useCartSlice = require("./UseCartSlice");
 var _useCartSliceDefault = parcelHelpers.interopDefault(_useCartSlice);
 var _toolkit = require("@reduxjs/toolkit");
 const myAppStore = (0, _toolkit.configureStore)({
@@ -40366,7 +40366,7 @@ const myAppStore = (0, _toolkit.configureStore)({
 });
 exports.default = myAppStore;
 
-},{"./useCartSlice":"2vYEN","@reduxjs/toolkit":"lL1Ef","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"8OILE":[function() {},{}],"3BwwS":[function(require,module,exports) {
+},{"@reduxjs/toolkit":"lL1Ef","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./UseCartSlice":"jqgWJ"}],"8OILE":[function() {},{}],"3BwwS":[function(require,module,exports) {
 module.exports = require("12a422f889c162f6")(require("fa5e1dd0544aba7b").getBundleURL("aXMci") + "Mybag.ad36b668.js" + "?" + Date.now()).catch((err)=>{
     delete module.bundle.cache[module.id];
     throw err;
@@ -40475,6 +40475,6 @@ module.exports = require("e6809422586d3120")(require("a1426955603c4216").getBund
     throw err;
 }).then(()=>module.bundle.root("kYMFu"));
 
-},{"e6809422586d3120":"61B45","a1426955603c4216":"lgJ39"}]},["hcwwj","1xC6H","2kQhy"], "2kQhy", "parcelRequirea1c7")
+},{"e6809422586d3120":"61B45","a1426955603c4216":"lgJ39"}]},["hcwwj","1xC6H","2kQhy"], "2kQhy", "parcelRequire5457")
 
 //# sourceMappingURL=index.7271efb6.js.map

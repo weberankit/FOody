@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { addItem } from "../utils/useCartSlice";
+import { addItem } from "../utils/UseCartSlice";
 import { img_cdn_link } from "./constant";
 const ItemList = ({ dataInfo }) => {
   const dispatch = useDispatch();

@@ -609,7 +609,7 @@ var _reactRedux = require("react-redux");
 //import ItemList from "./ItemList";
 var _displayCart = require("./DisplayCart");
 var _displayCartDefault = parcelHelpers.interopDefault(_displayCart);
-var _useCartSlice = require("../utils/useCartSlice");
+var _useCartSlice = require("../utils/UseCartSlice");
 var _s = $RefreshSig$();
 const Mybag = ()=>{
     _s();
@@ -671,7 +671,7 @@ $RefreshReg$(_c, "Mybag");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","./DisplayCart":"8IbNt","../utils/useCartSlice":"2vYEN","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"8IbNt":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","./DisplayCart":"8IbNt","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../utils/UseCartSlice":"jqgWJ"}],"8IbNt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$a06f = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -682,7 +682,7 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _reactRedux = require("react-redux");
-var _useCartSlice = require("../utils/useCartSlice");
+var _useCartSlice = require("../utils/UseCartSlice");
 var _s = $RefreshSig$();
 /*
  function finalPrice(dataInfo){
@@ -845,6 +845,6 @@ $RefreshReg$(_c, "DisplayCart");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","../utils/useCartSlice":"2vYEN","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["7UH5O","1xC6H"], null, "parcelRequirea1c7")
+},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../utils/UseCartSlice":"jqgWJ"}]},["7UH5O","1xC6H"], null, "parcelRequire5457")
 
 //# sourceMappingURL=Mybag.ad36b668.js.map

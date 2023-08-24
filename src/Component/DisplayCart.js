@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 
-import { removeItem, increment } from "../utils/useCartSlice";
+import { removeItem, increment } from "../utils/UseCartSlice";
 
 
 
