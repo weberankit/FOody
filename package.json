@@ -2,7 +2,8 @@
   "name": "food_web_appi",
   "version": "1.0.0",
   "description": "this is my Myshopfood files",
-  "main":"App.js",
+  "main": "./src/App.js"
+,
 
   
   "scripts": {

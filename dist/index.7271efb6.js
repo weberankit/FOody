@@ -36402,7 +36402,7 @@ $RefreshReg$(_c, "ItemList");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","./constant":"ie4gv","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../utils/UseCartSlice":"jqgWJ"}],"jqgWJ":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","../utils/UseCartSlice":"jqgWJ","./constant":"ie4gv","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"jqgWJ":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$e6be = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -40366,7 +40366,7 @@ const myAppStore = (0, _toolkit.configureStore)({
 });
 exports.default = myAppStore;
 
-},{"@reduxjs/toolkit":"lL1Ef","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./UseCartSlice":"jqgWJ"}],"8OILE":[function() {},{}],"3BwwS":[function(require,module,exports) {
+},{"./UseCartSlice":"jqgWJ","@reduxjs/toolkit":"lL1Ef","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"8OILE":[function() {},{}],"3BwwS":[function(require,module,exports) {
 module.exports = require("12a422f889c162f6")(require("fa5e1dd0544aba7b").getBundleURL("aXMci") + "Mybag.ad36b668.js" + "?" + Date.now()).catch((err)=>{
     delete module.bundle.cache[module.id];
     throw err;

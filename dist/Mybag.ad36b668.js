@@ -671,7 +671,7 @@ $RefreshReg$(_c, "Mybag");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","./DisplayCart":"8IbNt","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../utils/UseCartSlice":"jqgWJ"}],"8IbNt":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","./DisplayCart":"8IbNt","../utils/UseCartSlice":"jqgWJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"8IbNt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$a06f = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -845,6 +845,6 @@ $RefreshReg$(_c, "DisplayCart");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../utils/UseCartSlice":"jqgWJ"}]},["7UH5O","1xC6H"], null, "parcelRequire5457")
+},{"react/jsx-dev-runtime":"iTorj","react-redux":"bdVon","../utils/UseCartSlice":"jqgWJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["7UH5O","1xC6H"], null, "parcelRequire5457")
 
 //# sourceMappingURL=Mybag.ad36b668.js.map
