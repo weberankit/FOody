@@ -2,9 +2,9 @@
   "name": "food_web_appi",
   "version": "1.0.0",
   "description": "this is my Myshopfood files",
-  "main": "./src/App.js",
+  
   "scripts": {
-    "start": "parcel index.html"
+    "build": "parcel build index.html --dist-dir build"
   },
   "repository": {
     "type": "git",
